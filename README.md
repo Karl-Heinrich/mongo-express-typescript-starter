@@ -10,4 +10,4 @@ The stack includes:
 - Express (+ Node, obviously)
 - Typescript
 
-Happy Coding (~‾ ▿ ‾)~
+Happy Coding (‾ ▿ ‾)
