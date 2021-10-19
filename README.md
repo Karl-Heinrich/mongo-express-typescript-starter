@@ -10,4 +10,11 @@ The stack includes:
 - Express (+ Node, obviously)
 - Typescript
 
+## Start locally
+
+```sh
+npm i
+npm start
+```
+
 Happy Coding (‾ ▿ ‾)
