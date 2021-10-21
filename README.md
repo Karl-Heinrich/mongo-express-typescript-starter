@@ -22,6 +22,12 @@ npm start
 Everything you need to know if you want to use MongoDB Atlas (Database as a Service), you can find follwing this link:
 https://docs.atlas.mongodb.com/getting-started/
 
+*Hint*: If the connection does not work, make sure your password / username or db-name does not have any special characters, if you are connecting via URL:
+
+**(: / ? # [ ] @).**
+
+See also: [here](https://docs.atlas.mongodb.com/troubleshoot-connection/#special-characters-in-connection-string-password)
+
 
 ## Last but not least !
 
